@@ -1,0 +1,9 @@
+POST http://localhost:3000/add-new-info
+Content-Type: application/json
+
+{
+    "name":"Atharva",
+    "regno":"201900342",
+    "marks": 1
+
+}
